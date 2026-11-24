@@ -56,7 +56,8 @@ source venv/bin/activate
 □ Integrate Twilio for actual phone number VoIP calls.
 □ Add "Function Calling" to control smart home devices and local apps.
 □ Implement wake-word detection (e.g., "Hey NightFall").
-  Disclaimer
+
+Disclaimer
 This project is for educational and personal use. Ensure you keep your API keys secure and do not commit them to version control.
 
 
