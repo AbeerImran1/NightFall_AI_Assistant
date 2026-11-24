@@ -52,10 +52,15 @@ source venv/bin/activate
 
 Roadmap
 ☑ Base assistant functionality (imported from previous Jarvis project).
+
 □ Integrate an LLM for dynamic, context-aware conversation.
+
 □ Add WebRTC (via LiveKit) for browser-based voice chat.
+
 □ Integrate Twilio for actual phone number VoIP calls.
+
 □ Add "Function Calling" to control smart home devices and local apps.
+
 □ Implement wake-word detection (e.g., "Hey NightFall").
 
 Disclaimer
