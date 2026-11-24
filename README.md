@@ -35,6 +35,7 @@ To run this project locally:
 
 2. Set up a virtual environment (Recommended):
    python -m venv venv
+   
 # On Windows:
 venv\Scripts\activate
 # On Mac/Linux:
@@ -49,7 +50,7 @@ source venv/bin/activate
 5. Run the application:
    python app.py
 
-   Roadmap
+Roadmap
 ☑ Base assistant functionality (imported from previous Jarvis project).
 □ Integrate an LLM for dynamic, context-aware conversation.
 □ Add WebRTC (via LiveKit) for browser-based voice chat.
