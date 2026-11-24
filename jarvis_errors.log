@@ -1,0 +1,72 @@
+2025-06-28 22:56:27,320:ERROR:Unrecognized command: hello
+2025-06-28 22:56:29,925:ERROR:Unrecognized command: hello
+2025-06-28 22:56:32,525:ERROR:Unrecognized command: hello
+2025-06-28 22:56:35,113:ERROR:Unrecognized command: hello
+2025-06-28 22:56:37,706:ERROR:Unrecognized command: hello
+2025-06-28 22:56:40,307:ERROR:Unrecognized command: hello
+2025-06-28 22:56:47,637:ERROR:Unrecognized command: 
+2025-06-28 22:56:50,243:ERROR:Unrecognized command: 
+2025-06-28 22:56:52,806:ERROR:Unrecognized command: 
+2025-06-28 22:56:55,400:ERROR:Unrecognized command: 
+2025-06-28 22:56:58,006:ERROR:Unrecognized command: 
+2025-06-28 22:57:00,626:ERROR:Unrecognized command: 
+2025-06-28 22:57:26,919:ERROR:Unrecognized command: 
+2025-06-28 22:57:29,519:ERROR:Unrecognized command: 
+2025-06-28 22:57:32,132:ERROR:Unrecognized command: 
+2025-06-28 22:57:34,711:ERROR:Unrecognized command: 
+2025-06-28 22:57:37,297:ERROR:Unrecognized command: 
+2025-06-28 22:57:39,864:ERROR:Unrecognized command: 
+2025-06-28 23:09:46,207:ERROR:Unrecognized command: what's the time
+2025-06-28 23:09:48,804:ERROR:Unrecognized command: what's the time
+2025-06-28 23:09:51,350:ERROR:Unrecognized command: what's the time
+2025-06-28 23:09:53,951:ERROR:Exception in handle_command: Invalid format string
+2025-06-28 23:10:07,436:ERROR:Unrecognized command: 
+2025-06-28 23:10:10,030:ERROR:Unrecognized command: 
+2025-06-28 23:10:12,642:ERROR:Unrecognized command: 
+2025-06-28 23:10:15,228:ERROR:Unrecognized command: 
+2025-06-28 23:10:17,830:ERROR:Unrecognized command: 
+2025-06-28 23:11:57,521:ERROR:Unrecognized command: 
+2025-06-28 23:12:00,110:ERROR:Unrecognized command: 
+2025-06-28 23:12:02,701:ERROR:Unrecognized command: 
+2025-06-28 23:12:05,294:ERROR:Unrecognized command: 
+2025-06-28 23:12:07,893:ERROR:Unrecognized command: 
+2025-06-28 23:12:10,493:ERROR:Unrecognized command: 
+2025-06-28 23:18:47,231:ERROR:Unrecognized command: time
+2025-06-28 23:18:49,811:ERROR:Unrecognized command: time
+2025-06-28 23:18:52,423:ERROR:Unrecognized command: time
+2025-06-28 23:18:54,977:ERROR:Exception in handle_command: Invalid format string
+2025-06-28 23:19:09,486:ERROR:Unrecognized command: 
+2025-06-28 23:19:12,077:ERROR:Unrecognized command: 
+2025-06-28 23:19:14,684:ERROR:Unrecognized command: 
+2025-06-28 23:19:17,285:ERROR:Unrecognized command: 
+2025-06-28 23:19:19,879:ERROR:Unrecognized command: 
+2025-06-28 23:19:22,475:ERROR:Unrecognized command: 
+2025-06-28 23:19:31,295:ERROR:Unrecognized command: quit
+2025-06-28 23:23:59,967:ERROR:Unrecognized command: time
+2025-06-28 23:24:11,950:ERROR:Unrecognized command: tell time
+2025-06-28 23:24:35,402:ERROR:Unrecognized command: time
+2025-06-28 23:24:48,210:ERROR:Unrecognized command: hello
+2025-06-28 23:28:32,565:ERROR:Unrecognized command: hello
+2025-06-28 23:28:41,358:ERROR:Unrecognized command: play music
+2025-06-28 23:28:50,448:ERROR:Unrecognized command: music
+2025-06-28 23:29:03,494:ERROR:Unrecognized command: play music
+2025-06-28 23:29:16,358:ERROR:Unrecognized command: play music
+2025-06-28 23:45:25,511:ERROR:Exception in handle_command: Invalid format string
+2025-06-28 23:46:30,871:ERROR:Exception in handle_command: Invalid format string
+2025-06-28 23:52:54,373:ERROR:Unrecognized command: 
+2025-06-28 23:53:02,913:ERROR:Exception in handle_command: Invalid format string
+2025-06-28 23:56:18,281:ERROR:Exception in handle_command: Invalid format string
+2025-06-28 23:56:26,262:ERROR:Unrecognized command: ex
+2025-06-28 23:56:34,896:ERROR:Unrecognized command: ex
+2025-06-29 01:18:14,723:ERROR:Exception in handle_command: Invalid format string
+2025-06-29 01:18:23,117:ERROR:Exception in handle_command: Invalid format string
+2025-06-29 01:18:31,666:ERROR:Exception in handle_command: Invalid format string
+2025-06-29 01:58:30,351:ERROR:Exception in handle_command: Invalid format string
+2025-06-29 01:59:43,676:ERROR:Exception in handle_command: Invalid format string
+2025-06-29 01:59:52,976:ERROR:Exception in handle_command: Invalid format string
+2025-06-30 22:12:39,463:ERROR:Unrecognized command: landes
+2025-06-30 22:13:49,978:ERROR:Exception in handle_command: get_weather() missing 1 required positional argument: 'city'
+2025-06-30 22:14:05,766:ERROR:Unrecognized command: man
+2025-06-30 22:14:14,399:ERROR:Unrecognized command: worcester city
+2025-07-06 18:25:50,831:ERROR:Unrecognized command: when is the next heat w
+2025-07-06 18:26:02,633:ERROR:Unrecognized command: when is the summer
