@@ -1,7 +1,5 @@
 # NightFall_AI_Assistant
 
-# NightFall AI Assistant 
-
 An advanced, low-latency AI voice assistant inspired by J.A.R.V.I.S. from Iron Man. NightFall is designed to handle real-time VoIP (Voice over IP) conversations, execute system commands, and interact with external APIs. 
 
 This project originally started as a foundational Python-based "Jarvis" assistant and is being actively evolved into a fully-fledged, conversational AI companion.
