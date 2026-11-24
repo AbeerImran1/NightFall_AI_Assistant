@@ -51,17 +51,18 @@ source venv/bin/activate
    python app.py
 
 Roadmap
-☑ Base assistant functionality (imported from previous Jarvis project).
 
-□ Integrate an LLM for dynamic, context-aware conversation.
+Base assistant functionality (imported from previous Jarvis project). (Done)
 
-□ Add WebRTC (via LiveKit) for browser-based voice chat.
+Integrate an LLM for dynamic, context-aware conversation. (Waiting)
 
-□ Integrate Twilio for actual phone number VoIP calls.
+Add WebRTC (via LiveKit) for browser-based voice chat. (Waiting)
 
-□ Add "Function Calling" to control smart home devices and local apps.
+Integrate Twilio for actual phone number VoIP calls. (Waiting)
 
-□ Implement wake-word detection (e.g., "Hey NightFall").
+Add "Function Calling" to control smart home devices and local apps. (Waiting)
+
+Implement wake-word detection (e.g., "Hey NightFall"). (Waiting)
 
 Disclaimer
 This project is for educational and personal use. Ensure you keep your API keys secure and do not commit them to version control.
